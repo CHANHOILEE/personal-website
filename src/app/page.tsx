@@ -26,7 +26,7 @@ export default function Home() {
           <a href="/blog" className="underline">
             Blog
           </a>
-          <a href="mailto:your-email@example.com" className="underline">
+          <a href="mailto:chanhoi2375@gmail.com" className="underline">
             Email
           </a>
         </div>
