@@ -27,7 +27,6 @@ const interests = [
   "Computer Architecture",
   "AI Accelerators",
   "RTL Design",
-  "FPGA Prototyping",
   "SoC",
 ];
 
