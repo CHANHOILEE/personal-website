@@ -13,7 +13,7 @@ export default function Home() {
 
         <p className="text-gray-600">
           Interested in Digital IC Design, Computer Architecture, AI
-          Accelerators, FPGA-based Systems, and Domain-Specific Chips.
+          Accelerators, and SoC.
         </p>
 
         <div className="flex gap-4">
