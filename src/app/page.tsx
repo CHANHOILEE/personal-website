@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <main className="min-h-screen px-8 py-16 max-w-4xl mx-auto">
       <section className="space-y-6">
-        <h1 className="text-4xl font-bold">Chanhoe Lee</h1>
+        <h1 className="text-4xl font-bold">Chanhoi Lee</h1>
 
         <p className="text-xl text-gray-700">
           Undergraduate student in Electrical and Electronics Engineering at
